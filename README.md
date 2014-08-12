@@ -13,3 +13,5 @@ first
 [@local] This readme shall stand as a testament.
 
 [@remote] Hey... looks like I managed to create, add and commit a folder and a file to the local repo and sync it to this remote repo. Let me now synch this updated README to the local repo. And that's all for now. Next I will try to learn about higher level stuff like forks and the likes.
+
+[@remote] I am going to pull this shit
